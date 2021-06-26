@@ -59,7 +59,7 @@ function App() {
           <Form onSubmit={handleSubmit} inline>
             <FormControl
               type="text"
-              placeholder="Borough"
+              placeholder="Borough only"
               className="mr-sm-2"
               value={searchString}
               onChange={(e) => setSearchString(e.target.value)}
