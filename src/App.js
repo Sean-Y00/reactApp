@@ -6,7 +6,7 @@
  *
  * Name: _byeongsuk yoo__ Student ID: _062411079_ Date: _20210625_
  *
- * Online Link to Restaurant App: _________________________________________________________
+ * Online Link to Restaurant App: _https://web422a3.vercel.app/Restaurants___
  *
  ***********************************************************************************/
 import "./App.css";
